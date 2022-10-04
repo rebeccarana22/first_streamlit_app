@@ -1,2 +1,2 @@
-import streamlit1
-testing how adding text works in streamlit
+import streamlit
+streamlit.title (testing how adding text works in streamlit)
