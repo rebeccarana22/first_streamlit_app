@@ -1,2 +1,5 @@
 import streamlit
-streamlit.title ('Dinner  kofta chawal chutney yogurt')
+streamlit.title ('Dinner')
+streamlit.title ('yogurt')
+streamlit.title ('chawal')
+streamlit.title ('kofta')
