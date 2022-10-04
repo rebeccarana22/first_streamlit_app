@@ -1,5 +1,5 @@
 import streamlit
-streamlit.title ('Dinner:
+streamlit.title ('Dinner
                  kofta
                  chawal
                  chutney
